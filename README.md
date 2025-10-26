@@ -24,6 +24,6 @@ Malware Analysis - TCM
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on getting my PNPT Certificate.
-- 🌱 I’m currently learning Offenisive Security
--->
+-  I’m currently working on getting my PNPT and SC - 200 Certificates 
+-  I’m currently learning --> Offenisive Security
+
