@@ -2,6 +2,16 @@
 
 <h2>👨‍💻 Cyber Security Projects :</h2>
 
+<h2>👨‍💻 Certifications :</h2>
+CCNA
+LPIC 101 
+LPIC 102
+CEHv11
+AZ - 9000
+SC - 300
+Malware Analysis - TCM
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -10,17 +20,10 @@
 
 
 
-<!--
-**EM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-EM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on getting my PNPT Certificate.
+- 🌱 I’m currently learning Offenisive Security
 -->
