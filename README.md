@@ -6,7 +6,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/evgeni-moskovich-b6b333247/" />][linkedin]
+[<img align="left" alt="Evgeni Moshkovich | LinkedIn" width="22px" src="https://www.linkedin.com/in/evgeni-moskovich-b6b333247/" />][linkedin]
 
 
 
